@@ -1,0 +1,2 @@
+class InvalidMarksError(Exception):
+    pass
